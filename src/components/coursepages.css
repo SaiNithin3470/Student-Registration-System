@@ -1,0 +1,44 @@
+
+.heading{
+    margin-bottom:2rem;
+}
+.edit-input{
+    width:600px;
+    padding:10px;
+    border-radius: 10px;
+    
+}
+.btn{
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display:block;
+    margin-top:10px;
+    margin-left:20px;
+}
+ li{
+    display:block;
+    margin-top:20px;
+    list-style: none;
+}
+.btn1{
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+    
+    
+    
+}
+.edit-input1{
+      width:300px;
+    padding:10px;
+    border-radius: 10px;
+}
+

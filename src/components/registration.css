@@ -1,0 +1,14 @@
+
+input{
+    display:block;
+    margin-bottom:30px;
+    margin-top:20px;
+    width:28%;
+    border-radius:5px;
+    padding:10px;
+
+}
+.delete{
+    margin-left:10px;
+}
+

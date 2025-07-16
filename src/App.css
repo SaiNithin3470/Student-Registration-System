@@ -1,0 +1,22 @@
+*
+{
+    font-family: Arial, sans-serif;
+    
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    
+    
+}
+nav a{
+    text-decoration:none;
+    color:black;
+}
+header{
+    
+    padding: 10px 20px;
+    border-bottom: 2px solid #dee2e6;
+    padding:10px 20px;
+    
+}
